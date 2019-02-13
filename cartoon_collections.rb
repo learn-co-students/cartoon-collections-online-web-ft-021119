@@ -3,7 +3,7 @@ def roll_call_dwarves(names_arr)
   while i < names_arr.length 
    puts #{i + 1}. {names_arr[i]}
   i += 1 
-end
+  end
 end
 
 
