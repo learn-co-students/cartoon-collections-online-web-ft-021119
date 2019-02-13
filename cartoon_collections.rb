@@ -1,5 +1,5 @@
 def roll_call_dwarves(names_arr)
-  names_arr.collect{|name| puts name + 1}
+  names_arr.each.collect{|name| puts name}
 end
 
 
