@@ -1,5 +1,7 @@
 def roll_call_dwarves(names_arr)
-  names_arr.collect{|name| puts name }
+  i = 0 
+  while i < names_arr.length 
+   puts 
 end
 
 
